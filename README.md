@@ -1,5 +1,5 @@
 # Hybrid-random-forest-models
-The model in this repository was used in an academic paper titled "Hybrid random forest models optimized by Sparrow search algorithm (SSA) and Harris hawk optimization algorithm (HHO) for slope stability prediction" This repository contains MATLAB code for implementing hybrid random forest algorithms, including SSA-RF and HHO-RF.
+The model in this repository was used in an academic paper titled "Hybrid random forest models optimized by Sparrow search algorithm (SSA) and Harris hawk optimization algorithm (HHO) for slope stability prediction" This repository contains MATLAB code for implementing hybrid random forest algorithms, including SSA-RF and HHO-RF. Additionally, the underlying random forest model and all models mentioned in the paper are mentioned in this repository and can be viewed on request.
 Prerequisites To run the code in this repository, you need:
 
 • MATLAB (2021 or higher)
